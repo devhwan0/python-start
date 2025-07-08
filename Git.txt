@@ -1,0 +1,15 @@
+Git CMD
+git --version   # Git version 확인
+git config --global user.name "사용자명"    # Git 사용자 정보 등록 1
+git config --global user.email "이메일주소"    # Git 사용자 정보 등록 2
+git init    # Git 생성
+
+Git
+git remote add origin 주소  # Git Branch 생성
+git remote -v   # Git repository 확인
+git remote set-url origin 주소  # Git repository 변경
+
+git pull origin main    # Git pull
+git status  # Git status
+git add 파일    # Git add
+git commit -m "커밋 내용"   # Git commit
