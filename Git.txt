@@ -11,5 +11,8 @@ git remote set-url origin 주소  # Git repository 변경
 
 git pull origin main    # Git pull
 git status  # Git status
-git add 파일    # Git add
+git add 파일    # Git 에 파일 추가
+git rm 파일     # Git 에 파일 삭제
 git commit -m "커밋 내용"   # Git commit
+git push origin main    # Git push
+git log    # Git commit 확인
