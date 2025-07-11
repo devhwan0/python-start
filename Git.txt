@@ -17,3 +17,4 @@ gir rm -rf 폴더    # Git 에 폴더 삭제
 git commit -m "커밋 내용"   # Git commit
 git push origin main    # Git push
 git log    # Git commit 확인
+git clone 주소  # Git 파일 받기
